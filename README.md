@@ -6,7 +6,7 @@ A lot has changed with this version of Moyai, so I will explain what all has cha
 
 The following below has changed:
 
-- Console Interface - 
+- Console Interface  
 
 When launching the program, you will notice the following: 
   Prints the extension _cog file_ being loaded into the program
@@ -15,14 +15,14 @@ When launching the program, you will notice the following:
   Prints the client ID
   Prints how many servers the bot resides in
 
-- New Commands - 
+- New Commands 
 
 The following commands added: 
   ;ping - Ping an IP or DNS.
   ;google - Google Search
   ;urban - Search through the Urban Dictionary
 
-- New Files - 
+- New Files 
 
 When looking a the directory of the program, you will notice the following new files: 
   config.py - Replaces the .json file used for the bot. 
